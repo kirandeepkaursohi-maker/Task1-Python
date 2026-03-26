@@ -70,7 +70,7 @@ Each folder contains:
 3. Run any Python file:
 
    ```bash
-   python filename.py
+   python Task 1.2.py
    ```
 
 ---
