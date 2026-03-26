@@ -16,14 +16,14 @@ This assignment focuses on applying basic Python concepts like **conditional sta
 
 ---
 
-## Task 2.2 – Sum from 0 to 50
+## Task 2.2 – Sum from 1 to 50
 
-* Program calculates the **sum of numbers from 0 to 50**
+* Program calculates the **sum of numbers from 1 to 50**
 * Uses a **for loop**
 
 💡 Logic:
 
-* Loop runs from 0 to 50
+* Loop runs from 1 to 50
 * Each number is added to a running total
 
 ---
